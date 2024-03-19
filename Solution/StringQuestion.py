@@ -1,8 +1,8 @@
 str = input("Enter a string \n")
 
-splitstr = str.split()
+strarr = str.split()
 
-for st in splitstr:
+for st in strarr:
   if len(st) % 2 == 0:
     print(st)
     
