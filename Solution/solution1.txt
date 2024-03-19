@@ -6,5 +6,8 @@ for st in splitstr:
   if len(st) % 2 == 0:
     print(st)
     
-    
-     
+"""
+	printing out even lettered words
+	and not printing odd lettered words
+
+"""
